@@ -1,0 +1,40 @@
+
+vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiZDAyMWVlN2YtYjkxNS00MTNmLTkxYjgtZjQxZDBiMGZlMGEzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+
+trojan://telegram-id-privatevpns@54.93.168.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
+
+trojan://telegram-id-directvpn@18.190.57.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.223.124.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
+
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fproxy_mtmed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#👉🆔 @FORWARDV2RAY
+
+vless://d3ba60e5-3eef-4ef8-b2f9-e51eb47174e2@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
+
+vless://d3ba60e5-3eef-4ef8-b2f9-e51eb47174e2@185.146.173.59:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
+
+vless://4e0e15bb-53fe-4b54-b16a-f723a12a59ee@104.26.7.89:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=tm.irandtehran.org#👉🆔 @FORWARDV2RAY
+
+vless://79b12a6a-6c8b-4394-8f09-e97046de0a10@172.67.170.71:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal&sni=d.nonoall.com#👉🆔 @FORWARDV2RAY
+
+vless://ffffffff-eeae-4311-b37c-b2a67847fed2@172.67.220.65:443?path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.de.mnhacker.eu.org&fp=chrome&type=ws&sni=watashi.free.de.mnhacker.eu.org#👉🆔 @FORWARDV2RAY
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjQuNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLmNmZCIsICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+
+vless://---DIGiV2RAY---@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+
+vless://---DIGiV2RAY---@discord.gg:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+
+vless://0e2b3358-21b8-458b-8266-03f81607ac29@ohayo3.xelatek.com:8443?path=%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=dl3.xelatek.com&fp=chrome&type=ws&sni=dl3.xelatek.com#👉🆔 @FORWARDV2RAY
+
+vmess://eyJhZGQiOiAiMTA0LjIxLjQuNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLmNmZCIsICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEBGT1JXQVJEVjJSQVkifQ==
+
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=Path%2FTelegram+FreakConfig+%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=test38.pages.dev&fp=chrome&type=ws&sni=test38.pages.dev#👉🆔 @FORWARDV2RAY
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY0FIVVJsQ2ZFTnBKbUI3Nkgwajd3@49.13.19.135:32927#👉🆔 @FORWARDV2RAY
+
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=binance.co.kp&type=ws#👉🆔 @FORWARDV2RAY
+
+vless://0fa5d8c5-c2ef-4fca-8050-6d91598fa57a@maz.maznet.cfd:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join20.maznet.cfd&fp=chrome&type=ws&sni=join20.maznet.cfd#👉🆔 @FORWARDV2RAY
+
+vless://9f9e9c76-ce36-4517-9aa0-06b3dc559e34@104.24.172.7:8080?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#👉🆔 @FORWARDV2RAY
