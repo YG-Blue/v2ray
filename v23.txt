@@ -1,17 +1,2 @@
 FORWARDV2RAY, [3/26/2024 4:43 PM]
 vless://2c475feb-ffc4-4e4d-98a4-13baaa00519a@185.146.173.59:443?mode=gun&security=tls&encryption=none=@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO&alpn=h2&fp=firefox&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&sni=nimkatV2ray.jonedel.com#👉🆔 @FORWARDV2RAY
-
-FORWARDV2RAY, [3/26/2024 4:43 PM]
-vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
-
-FORWARDV2RAY, [3/26/2024 4:43 PM]
-vless://2c475feb-ffc4-4e4d-98a4-13baaa00519a@www.speedtest.net.cdn.cloudflare.net:443?mode=gun&security=tls&encryption=none=@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO&alpn=h2&fp=firefox&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&sni=nimkatV2ray.jonedel.com#👉🆔 @FORWARDV2RAY
-
-FORWARDV2RAY, [3/26/2024 4:43 PM]
-vless://2c475feb-ffc4-4e4d-98a4-13baaa00519a@185.146.173.59:443?mode=gun&security=tls&encryption=none=@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO&alpn=h2&fp=firefox&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&sni=nimkatV2ray.jonedel.com#👉🆔 @FORWARDV2RAY
-
-FORWARDV2RAY, [3/26/2024 4:43 PM]
-vless://2c475feb-ffc4-4e4d-98a4-13baaa00519a@www.speedtest.net.cdn.cloudflare.net:443?mode=gun&security=tls&encryption=none=@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO,@TEHRANARGO&alpn=h2&fp=firefox&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&sni=nimkatV2ray.jonedel.com#👉🆔 @FORWARDV2RAY
-
-FORWARDV2RAY, [3/26/2024 4:44 PM]
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1LjE0LjI0NC4xMzMiLCAicG9ydCI6ICIyMDI0IiwgImlkIjogImJmMWRkMzI4LWE2MDUtNDhmZC05MThmLTQ0Y2NhMWNmZTA3ZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQEZPUldBUkRWMlJBWSJ9
